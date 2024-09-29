@@ -1,0 +1,17 @@
+# polyfill.io supply chain attack (https://censys.com/july-2-polyfill-io-supply-chain-attack-digging-into-the-web-of-compromised-domains/)
+||googie-anaiytics.com^
+||googie*^
+||polyfill.io^
+||kuurza.com^
+||bootcdn.net
+||bootcss.com
+||staticfile.net
+||staticfile.org
+
+# --- Other blocks --- #
+||a1i6tou42mzagf.iot.eu-central-1.amazonaws.com^$important
+||*bensos.co.in^
+
+# --- Other unblocks --- #
+@@||image.ard.de^$important
+@@||t.homeconnecthca.com^$important
