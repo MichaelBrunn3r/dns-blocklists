@@ -8,6 +8,14 @@
 ||staticfile.net
 ||staticfile.org
 
+# Facebook/Messenger App Android/iOS (Comments, Messages) (https://github.com/hagezi/dns-blocklists/blob/main/share/facebook.txt)
+@@||b-graph-fallback.facebook.com
+@@||b-graph.facebook.com
+@@||graph-fallback.facebook.com
+@@||graph.facebook.com
+@@||graph.fbpigeon.com
+@@||z-m-graph.facebook.com
+
 # --- Other blocks --- #
 ||a1i6tou42mzagf.iot.eu-central-1.amazonaws.com^$important
 ||*bensos.co.in^
